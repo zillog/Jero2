@@ -1,0 +1,11 @@
+﻿<Application
+    x:Class="Robot.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Robot"
+    RequestedTheme="Dark">
+    <Application.Resources>
+        <Thickness x:Key="AppBorderThickness">2.5</Thickness>
+        <FontFamily x:Key="AppFontFamilyNormal">Segoe WP</FontFamily>
+    </Application.Resources>
+</Application>
